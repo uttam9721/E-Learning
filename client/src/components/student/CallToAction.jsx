@@ -11,6 +11,7 @@ const CallToAction = () => {
         <button className='flex items-center gap-2'>
           Learn more
           <img src={assets.arrow_icon} alt="arrow_icon" />
+          {/* <img src={assets.arrow_icon} alt="arrow_icon" /> */}
         </button>
       </div>
     </div>
